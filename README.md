@@ -97,3 +97,4 @@ D:/JavaEE/assecorAssessmentProject/src/main/webapp/lib/ojdbc7.jar  :  Projekt pa
 c-  mvn clean                 Zum Reinigen aller vorherigen Informationen
 d-  mvn site                    Zum Erstellen von java doc
 e-  mvn package             Zum Erstellen  target und war 
+
