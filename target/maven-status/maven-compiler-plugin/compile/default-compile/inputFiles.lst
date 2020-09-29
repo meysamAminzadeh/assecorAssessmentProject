@@ -1,0 +1,12 @@
+D:\JavaEE\assecorAssessmentProject\src\main\java\utility\ConnectionType.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\utility\FarbeData.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\factory\FactoryClass.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\utility\InitationClass.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\DAO\PersonDAOWithFile.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\input\InputFromFile.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\input\IWorkWithDifferentInput.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\input\InputFromOracleDB.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\DAO\PersonDAOWithOracle.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\model\PersonBean.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\webServiceClasses\ServicePersonClass.java
+D:\JavaEE\assecorAssessmentProject\src\main\java\DAO\SqlScript.java

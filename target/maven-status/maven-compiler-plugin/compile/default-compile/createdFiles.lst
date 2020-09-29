@@ -1,0 +1,13 @@
+input\InputFromOracleDB.class
+DAO\SqlScript.class
+utility\ConnectionType.class
+utility\InitationClass.class
+input\IWorkWithDifferentInput.class
+model\PersonBean.class
+DAO\PersonDAOWithFile.class
+utility\FarbeData.class
+DAO\PersonDAOWithOracle.class
+webServiceClasses\ServicePersonClass.class
+input\InputFromFile$1.class
+factory\FactoryClass.class
+input\InputFromFile.class

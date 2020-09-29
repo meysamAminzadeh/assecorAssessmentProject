@@ -1,0 +1,17 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_40\jre\..\bin\javadoc.exe" @options @argfile"
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\allclasses-frame.html = 1596965486851
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\allclasses-noframe.html = 1596965486852
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\argfile = 1596965485891
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\constant-values.html = 1596965486819
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\deprecated-list.html = 1596965486849
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\help-doc.html = 1596965486860
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\index-all.html = 1596965486845
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\index.html = 1596965486855
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\options = 1596965485889
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\overview-tree.html = 1596965486835
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\package-list = 1596965486790
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\script.js = 1596965486863
+D:\JavaEE\assecorAssessmentProject\target\site\testapidocs\stylesheet.css = 1596965486862
