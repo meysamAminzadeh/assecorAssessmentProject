@@ -88,7 +88,7 @@ public class ServicePersonClass {
     @GET
     @Produces("application/json")
     @Path("/persons/color/{color}")
-    public List<PersonBean> getPesonById(@PathParam("color") String color) {
+    public List<PersonBean> getPesonByColor(@PathParam("color") String color) {
         try {
             personBeanList = ((SqlScript) factoryClass.makeInstance(InitationClass.persistance_Instance))
                     .selectByColor(color);
