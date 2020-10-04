@@ -110,7 +110,7 @@ public class ServicePersonClass {
     @POST
     @Path("/insertPerson")
     @Consumes("application/json")
-    public Response insertUser2(PersonBean personBean) {
+    public Response insertPerson(PersonBean personBean) {
         String success = "NOT";
         try {
             int personId = ((SqlScript) factoryClass.makeInstance(InitationClass.persistance_Instance))
